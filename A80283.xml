@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Complaints concerning corruptions and grievances in church-government. Dedicated and directed to the Kings most Excellent Majesty, the Right Honourable Lords; and the Honourable House of Commons, now assembled in Parliament. By certain peaceably affected Presbyters, of the Church of England; in the name of all the rest of their brethren. Undertaking to maintain the truth of their assertions, against whatsoever contradictors, if by publique edict of supream authority they be called forth, granting them as safe and free audience as their adversaries and judges, not preingaged, or preresolved for either side.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80283</idno>
+            <idno type="STC">Wing C5626</idno>
+            <idno type="STC">Thomason E1047_6</idno>
+            <idno type="STC">ESTC R208100</idno>
+            <idno type="EEBO-CITATION">99867094</idno>
+            <idno type="PROQUEST">99867094</idno>
+            <idno type="VID">119384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119384)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1047[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Complaints concerning corruptions and grievances in church-government. Dedicated and directed to the Kings most Excellent Majesty, the Right Honourable Lords; and the Honourable House of Commons, now assembled in Parliament. By certain peaceably affected Presbyters, of the Church of England; in the name of all the rest of their brethren. Undertaking to maintain the truth of their assertions, against whatsoever contradictors, if by publique edict of supream authority they be called forth, granting them as safe and free audience as their adversaries and judges, not preingaged, or preresolved for either side.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "nouemb: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119384:1" rendition="simple:additions"/>
+            <p>COMPLAINTS CONCERNING CORRUPTIONS AND GRIEVANCES in CHURCH-Government.</p>
+            <p>Dedicated and Directed to the KINGS moſt excellent MAjESTY, The Right Honourable LORDS; and the Honourable HOUSE of COMMONS, now aſſembled in PARLIAMENT.</p>
+            <p>By <hi>certain peaceably affected PRESBYTERS,</hi> of the <hi>CHURCH</hi> of <hi>ENGLAND;</hi> in the name of all the reſt of their <hi>BRETHREN.</hi>
+            </p>
+            <p>Undertaking to maintain the truth of their Aſſertions, againſt whatſoever Contradictors, if by publique Edict of Supream Authority they be called forth, granting them as ſafe and free Audience as their Adverſaries and Judges, not preingaged, or prereſolved for either ſide.</p>
+            <p>Printed in the Year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119384:2"/>
+            <pb n="1" facs="tcp:119384:2"/>
+            <head>COMPLAINTS CONCERNING CORRUPTIONS and GRIEVANCES in CHURCH-Government.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the Miſery of Pious Undertakings, eſpecially in Matters of weight, that by reaſon of humane frailty, they cannot be perfected at once, but by degrees, and after much time: whence it cometh to paſſe, that they are often given over, or by intervening Oppoſition forced to abortion, and imperfect Iſſue. Such was the caſe of that great Reformation begun with us, as in the dayes of thoſe Renowned Princes, King EDWARD, and Queen ELIZABETH, and till this day, remaining unaccompliſhed.</p>
+            <p>Thoſe now Bleſſed Martyrs, and Holy Confeſſours, who were under thoſe Pious Princes, the firſt Reformers of our Church, found things by that Papall Apoſtacy ſo much corrupted and disjointed, that being unable at once to cope with all the diſeaſes of the Church, they did, as wiſe Phyſitians, ſet themſelves firſt againſt the moſt deadly, deferring the reſt till afterwards.</p>
+            <p>Hence by ſuffering and Preaching they mightily pulled down the Babylon of Popiſh Doctrine, and ſomething too they did in matter of Government and Diſcipline. But becauſe the vitalls of the Church conſiſt in Doctrinal Verities, therefore their
+<pb n="2" facs="tcp:119384:3"/>
+chief bent of indeavour was for a Reformation in them, which in their time with great ſucceſſe they effected; leaving the reducing of Government and Diſcipline to it's Primitive Integrity; as a work to be done by Poſterity.</p>
+            <p>But, alas, as uſually it falls out, the Bellows of Perſecution ceaſing, the fire of Zeal ſoon began to abate, ſo that, after the firſt heat and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpetus</hi> of Reformation (as if they which had but begun, had at one eſſay done more than enough) the buſineſſe went on no further even till this day; Nay, (as ſome Edifice given over before it be covered) it hath ſince rather decaied and fallen back again. Such power hath pomp and eaſe to blunt that edge of ſacred Inventions, and quench the Spirit of Reformation.</p>
+            <p>As maladies not perfectly cured, returne, or turn to ſome other Diſeaſes, ſo was it with this imperfect Reformation; Doctrinal Points being reduced, but matter of Diſcipline left in its former ſtate, almoſt untouched: hence aroſe amongſt us, even from the cradle of our Reformed Church, Three ſeveral Opinions, which have continued even till this time: whoſe diſcord nouriſhed by oppoſition of hot ſpirits, hath encreaſed till now they are come to that extremity, that the life and being of this ſacred Body, is even endangered thereby.</p>
+            <p>One ſide cries down Epiſcopacy for Antichriſtian; and all the dependent Government, Canons, Ceremonies, and Liturgy, for remainders of Popery, abominable, and to be departed from. The other Extream cries it up for ſacred, of Divine, Apoſtolick inſtitution; and it's dependent Policy, for the moſt abſolute, to which all ought to be brought, as to a Rule of Perfection: cenſuring other Churches which have it not, either as none, or elſe imperfect, wanting a main part of their <hi>béne eſſe.</hi>
+            </p>
+            <p>In the midſt of theſe two, are a Remnant of ſad Lookers on, which have mourned in ſecret, ſuffered with patience, prayed for peace, and preached it, and Sanctification to the people; while thoſe other two, one by ſeparating, the other by perſecuting, and both by froward diſputing have ſcrewed up their Differences to an intolerable, irreconcileable height. Both theſe ſacrificing to their own conceits, account all which are not with them, to be againſt them.</p>
+            <p>
+               <pb n="3" facs="tcp:119384:3"/>But eſpecially, that Epiſcopal Faction (for diſtinctions ſake give us leave ſo to call it:) which by the indulgence of gracious Princes growing powerfull, have laboured an extirpation of all which will not think, ſay, and ſwear to their Opinions. Hence of late have all been involved, as of the oppoſite Faction, which are not of theirs; and no place left for a moderate neutrality. New Ceremonies, Tasks, Canons, Oathes have been invented, as nets and ſives to try out all, as bad fiſh, or chaffe, which have but diſliked the remaining corruptions and defects, which the firſt plunge of Reformation did not redreſſe. No tolerating now of any thing as a burthen; much leſſe ſilent diſliking of what we could in ſecret grieve for, but not amend: but approve all, ſwear to all we muſt, or elſe be thruſt out, as Schiſmatical Puritans, and excrementitious burthens of the Church.</p>
+            <p>On this enforcement, We (a part of a Multitude of laborious <hi>Presbyters</hi> of the Church, in the name of all the reſt) do now Complain: becauſe in this height of all devouring Faction, our patient ſilence will no longer priviledg us from extirpation.</p>
+            <p>And ſith into our hands God hath put ſo bleſſed an opportunity, as to ſpeak to the whole Kingdome, Head and Members at once, in one body conjoined, and intent about a work of Reformation. We be humbly bold and plain to lay open our Grievances, hoping that the ſet time is come for the quenching of theſe coals of Diſſention, which have not only lived, but encreaſed for ſo many years in the Church; by compleating of that Reformation, which in the main vital Points was long ſince effected: and in the reſt, (we hope, and pray) after more than an age of interruption, is reſerved as your Crown and Glory to be perfected.</p>
+            <p>Experience hath e're this time taught us the wofull Effects of an half done work: the upſhot of our Jarres now declares that ſcrupulous urging of Ritualls, cannot ſtand with the wellfare of a Church. Thoſe Convulſions, and renting Pains the body now feels, ſhew us that the humours were not at firſt fully purged: God will have a through work done. If inſtead of redreſſing that which remains, you think to tranſact all theſe differences by removing of Perſons, and not Things, well you may huſh
+<pb n="4" facs="tcp:119384:4"/>
+our Troubles for a ſeaſon, but they will return again with a greater violence.</p>
+            <p>Now is that power actuated, which alone can bring to paſſe this great work. And if the Lord take pleaſure in this his poor Church, he will give the effect, that it may be performed.</p>
+            <p>If men would reſt in the ſole Authority of the Scriptures, moſt Controverſies both about Points of Faith and Formes of Government would finde an eaſie reſolution. And if beſides Gods Word, we bring in Mens Authority, we draw out the thread of contention into endleſſe Diſputes: mens faces differ not more in feature then their mindes do in Opinion: and each will dote on, and propugn his own conceits: their judgements diſſent one from another, and oft from themſelves.</p>
+            <p>Let the divinely inſpired Writings then be our guide in this point of Church-Government: what is there conſtituted muſt be held inviolable: what is a deviation from that, muſt be accounted Apoſtacy and Corruption, as well in Diſcipline as in Doctrine: no Plea of Antiquity or Univerſality, can priviledge it from that imputation; what is not therein appointed, muſt at moſt be held but as conducent, not neceſſary; No though it be proved to be received into the Churches, in the age immediately ſucceeding the Apoſtles: all after them were but of a private ſpirit. And it is apparent, that Ambition and Corruptions grew up as ſoon in the Government of the Church, as Errors in the Doctrine thereof.</p>
+            <p>Suffer us therefore with your wonted Patience and Lenity, which are men preingaged to no ſide or Faction, but the free humble and meek Servants of Truth, to declare our mindes concerning the Firſt and Pureſt Form of the Churches Government; and then (as <hi>Veritas eſt menſura ſui &amp; obliqui</hi>) from that light to diſcover the heavy Grievances which at this day remain unremoved in our National Church.</p>
+            <p n="1">1. It is a perpetual Ordinance of <hi>Chriſt,</hi> That there ſhould be <hi>Paſtors</hi> and <hi>Teachers</hi> in the Church, for the Adminiſtration of the Word, Sacraments, and ſpiritual Diſcipline.</p>
+            <p n="2">2. That there ſhould be a Society of theſe <hi>Paſtors</hi> or <hi>Presbyters</hi> in every particular Church, is an Apoſtolique Appointment;
+<pb n="5" facs="tcp:119384:4"/>
+who have alſo exactly preſcribed what manner of men they ought to be.</p>
+            <p n="3">3. That this Company of Elders ſhould have the Charge of the Church, in which they are conſtituted: and the power of Feeding, Cenſuring, and ordering the Flock committed to them: as alſo of ordering Elders and Officers in the Church: The work of Preaching and ſacramental Adminiſtration to be done by any one of them: But that of Juriſdiction and Ordination by the ſociety, as a common Act, not competible to any one in particular.</p>
+            <p n="4">4. Among theſe, and in all their Acts, there ought to be Decency, Order, the Bond of Peace, Humility, Meekneſſe, and an ayme, that the ſpirit of the moſt ſcandalous Offender, or ſtubborneſt Oppoſer may be brought to Repentance, and ſaved in the day of the <hi>Lord Jeſus.</hi>
+            </p>
+            <p n="5">5. That the Bounds and extent of every particular Church ought to be a Town, and ſo much of the adjacent Teritory and Villages, as ſuch a Presbytery can well by themſelves watch over, and take a ſpiritual care of.</p>
+            <p n="6">6. That the Society, eſpecially thoſe of them which <hi>labour in the Word and Doctrine,</hi> may challenge from the People, whom they take ſpiritual care of, <hi>double honour,</hi> and liberal ſuitable Maintenance, to the calling they execute.</p>
+            <p n="7">7. That every one who is conſecrate to this Presbytery or Office muſt <hi>wait on it,</hi> be <hi>inſtant</hi> in it; and therefore reſide within the confines of that Church, where he hath ſuch charge, or there where he may by himſelf on all occaſions attend on it.</p>
+            <p n="8">8. That in caſes of ſtrife and difficulty in any Church, recourſe muſt be had to the Meeting of the moſt able Presbyters of the Church for their determinations: and every one ought to ſubject his Spirit to the Spirits of ſuch Prophets, yielding to the Cuſtomes of the Churches of <hi>God:</hi> provided they croſſe not the All-commanding evidence of <hi>Gods</hi> immutable Word, either directly, or by due conſequence.</p>
+            <p>Theſe are Rules in the Goſpell, either directly conſtituted, or evidently deduced out of expreſſe Conſtitution; or practice ſo ſolemn and univerſall, that it hath in it the reaſon and vertue of a Conſtitution: ſo that every addition which thwarteth or
+<pb n="6" facs="tcp:119384:5"/>
+hindereth the due execution of theſe, muſt needs be accounted a Degeneration from original Purity of Government; and a corruption in ſacred Polity, have it never ſo much Antiquity, or weight of humane Authority to plead for it, and give countenance to it.</p>
+            <p>One thing more there is, which on probable ground ſeemeth to be taken up by the practice of ſome Churches in the latter end of the Apoſtolick Age, ſome of them yet living; and that is the proſtacy or Preſidence of one of theſe <hi>Paſtors, Biſhops,</hi> or <hi>Presbyters</hi> above the reſt. But it cannot poſſibly with any colour of conſequence be proved to be <hi>Authoritative:</hi> being only for Order and Unity, that all their common Acts ſhould have a beginning from One: as if many Deacons ſhould appoint an Arch-Deacon; or many Biſhops an Arch-Biſhop, in common Acts to be the Mouth and Hand of the Society.</p>
+            <p>And this preeminence of One (if the utmoſt of dark probability be granted) appeareth to be but the meer practice of ſome particular Churches; ſo that it cannot have the univerſal binding force of a Law from that ground, much leſſe of an Apoſtolick Conſtitution, or Divine Right.</p>
+            <p>Now are we deſcended from the Firſt Age; and ſo what ever followes can be but of humane and alterable Conſtitution. Very ſoon theſe Preſidents of the <hi>Presbyters,</hi> either aſſumed, or by their Compresbyters had conferred on them authority and juriſdiction; and by way of propriety the name of <hi>Biſhop:</hi> ſo that where before it was the Presbytery, now it was the <hi>Biſhop</hi> and his <hi>Presbyters.</hi>
+            </p>
+            <p>But obſevre: 1. That his Dioceſſe, Pariſh, or Church was no larger then He and his <hi>Presbyters</hi> could well Overſee and govern. 2. That this <hi>Biſhop</hi> had the Burthen, as well as the Dignity and Chiefty paſſed over to him, for He was the ordinary Preacher of that Church: the <hi>Presbyters</hi> for the moſt part aſſiſting in matter of Diſcipline and Sacramental Adminiſtration. 3. That He did nothing of weight by himſelf, but with the concurring Authority, and Conſent of His <hi>Presbytery.</hi>
+            </p>
+            <p>Beyond this we will not proceed: For theſe <hi>Biſhops,</hi> now gotten above their Brethren, and making up the main body of the Councels, in which all Decrees were enacted, knew how to
+<pb n="7" facs="tcp:119384:5"/>
+make the diſtance 'twixt themſelvs and their once Compresbyters greater and greater, by lifting up themſelves, and depreſſing thoſe, who now of Aſſociates were become Servants and Vaſſals to Epiſcopal principality.</p>
+            <p>But whatever came to paſſe in after Ages, it was but by the hand of Man eſtabliſhed, and the like hand may aboliſh it: reduced all muſt be to the former Scripture and Apoſtolick Rules. If Acceſſories deviate from them, they are Apoſtacies, which muſt be reduced, if there be a through Reformation. How can their maintenance be juſtified in a Church which hath profeſſed to make the Scriptures her Rule, and to reject all which is exalted againſt its Divine and abſolute Soveraignty?</p>
+            <p>Proofs we have not annexed to the former aſſerted Truths, to avoid over-bold prolixity in a Supplication of this nature: as alſo becauſe the moſt of them are obvious to every Mans Collection which is exerciſed in <hi>Gods</hi> Book. But if any of them ſhall be oppoſed: being called to it by Authority, and having the Freedome of indifferent, not preingaged Judges, we will by Gods Grace with all meekneſſe make good what is here aſſerted againſt all contradiction of Gainſayers.</p>
+            <p>Now will we proceed to an Enumeration of thoſe Obliquities and Corruptions in our <hi>Church</hi> Government, which call to your Supream Power to be rectified. And we proteſt before the All-knowing <hi>God,</hi> that We do it not out of envy of any mans Greatneſſe, or Ambitious Affectation to be medling in State Affairs, things too high for us; but from the powerfull command of Conſcience; from unfained love to the Goſpel of <hi>Christ,</hi> whoſe Efficacy is much impeached by the following Corruptions; and from filiall Commiſeration of our wounded and torn Mother: Whoſe Breaches we verily apprehend cannot be made up, but by reducing of her Diſcipline to a pure Concordance with thoſe Original Divine Preſcriptions.</p>
+            <p>We complain then,</p>
+            <p n="1">1. That the Power of Jurisdiction and Ordination is claimed and exerciſed by <hi>Biſhops,</hi> as their ſole Right, in a diſtinction from <hi>Presbyters.</hi> This we affirm to be an Exorbitance from the ſecond of thoſe right; original, and Apoſtolick Ordinances for Church
+<pb n="8" facs="tcp:119384:6"/>
+Government. And as it is a departure from the Rule: ſo it is a main corruption of evil conſequence in the Church: For it is Firſt, an Uſurpation and undue appropriation of a Legacy which Chriſt beſtowed in Common, to reſide in the <hi>Conſeſſus,</hi> or whole <hi>Presbytery</hi> and to be exerciſed by their common ſuffrage. It not being in the <hi>Presbyters</hi> power to ſtrip themſelves, and caſt on man that which was beſtowed, and by the Donor intended to the whole Community of their Society. Secondly, a ſevering of the Word and the Keyes, which cannot without detriment to either be ſundred. To Feed and Rule are the two parts of <hi>Paſtorſhip:</hi> where both are, there is a <hi>Pastor:</hi> So that, with us, while it is Ones work to govern, which ſeldome Feedeth: and the work of the reſt to Feed, which muſt not meddle with Government, there is no full <hi>Paſtor:</hi> But the Office is deſtroyed by being divided; and the Word in the mouths of a diſarmed <hi>Presbytery</hi> is weak, edgleſſe, and contemptible. Thirdly, The ordaining of a Number of <hi>Presbyters</hi> at large: whereby the Church is filled with needy Miniſters, looſe from any ſettled employment, fit at low rates to be hired by fat Pluraliſts, Non-Reſidents, and Lazie Voluptuaries; which elſe would be to ſeek of Mercenary ſupplies, or be driven in a penury to give higher Wages. But hereby the Sacred <hi>Office</hi> is expoſed to Contempt; and the Ordination to the <hi>Office</hi> and Inſtitution into a Charge, are made ſeveral Acts; A Divorce unheard of in that Primitive Policy: Which groſſe Abuſe could no be, if Ordination were the common on Act of the whole <hi>Presbyterie</hi> of a <hi>Church.</hi> Fourthly, intromiſſion to the Overſight of Congregations of Men Simoniacall, ſcandalous, and unapt to teach; which can eaſily ſteal into Office, by the connivence or corruption of One; but if the Power were in a Multitude, it could not ſoon be effected.</p>
+            <p n="2">2. The exceſſive Provincial extent of Dioceſan <hi>Churches,</hi> is an evident departure not only from the fift of thoſe pure original Conſtitutions; but alſo from the manner of after Ages, till <hi>Biſhops</hi> in their Synods provided better for their own Greatneſſe, then the <hi>Churches</hi> wellfare. Then they degraded the <hi>Chorepiſcopi;</hi> and made Orders that <hi>Biſhops</hi> ſhould be placed only in the greater and more frequented Cities. This is as a departure from
+<pb n="9" facs="tcp:119384:6"/>
+the firſt pure manner; ſo much for the worſe; for hence ariſe theſe Grievances: Neglect of Reformation, both in diſordered Miniſters and people: Remoteneſſe of the <hi>Biſhops</hi> Seat: Expences of Travailing; Difficulty of proving, and tedious Expectation of the Iſſue of Suits, where crimes muſt be tryed before Judges, who are meer ſtrangers to the Perſons and cauſes coming before them, deterre almoſt all men from ſo troubleſome an undertaking: And thus the <hi>Churches</hi> are peſter'd with infamous Offenders: which could not be, if the bounds of a <hi>Church</hi> were ſo appointed, that all its members might be under the eye of the Governours. 2. Deputation of Authority and Jurisdiction to others; a moſt groſſe degeneration from that Primitive Diſcipline; which never heard of ſuch a thing as the deputing of any part of <hi>Paſtoral Office:</hi> which is committed to Men for their Perſonal Abilities; and cannot without abuſe be committed to thoſe who are oft Lay men, and neither of <hi>Pastoral</hi> parts or Calling. Hence that numerous frie and ſubordination of Officers, with the multitude of Fees, which muſt needs be, where the <hi>Churches</hi> are whole <hi>Countries;</hi> ſo large, that it is impoſſible that one <hi>Paſtor</hi> ſhould diſpatch all by himſelf.</p>
+            <p n="3">3. The Non-reſidence of men having <hi>Paſtoral Charge</hi> is a groſſe violation of the ſeventh of thoſe Apoſtolick conſtitutions; and is an unexcuſable corruption, unfit to be tolerated in any well governed <hi>Church.</hi>
+            </p>
+            <p n="4">4. A Plurality of <hi>Paſtoral Charges</hi> undertaken by one Man, is alſo a groſs Exorbitancy, brought in with the former, after <hi>Church Government</hi> was at the worſt. Two Evills, which are the ſhame of our <hi>Church,</hi> not fit to be named in a Reformed <hi>Church,</hi> brought in, and continued meerly to nouriſh Ambition, Pompe, Voluptuouſneſſe, and Avarice in <hi>Clergie-men.</hi> Theſe two uſually go together, this laſt neceſſitating the former; and are ſeminary Evils. Firſt, inducing a neceſſity of deputing <hi>Paſtoral Charge,</hi> which every one before God undertakes to performe in his own Perſon. Secondly, <hi>Church</hi> Robbery, by tranſporting the ſacred Allowance, paid and intended for the maintennace of a vigilant painfull <hi>Paſtor</hi> over the ſoules of the People, which afford it to another Place and Perſon, which hath only the <hi>Title</hi> and <hi>Charge,</hi>
+               <pb n="10" facs="tcp:119384:7"/>
+but doth not the work of a <hi>Paſtor.</hi> 3. Thirdly, Impiety in placing a Mercenary unable for the <hi>Charge;</hi> or Injuſtice, if He ſubſtitute one able and fully diſcharging the <hi>Office,</hi> allowing him the leaſt part of that maintenance which was originally intended (and in no other Plea can be challenged of the People) for performing the <hi>Office.</hi>
+            </p>
+            <p n="5">5. Impoſing, and rigorous urging on great, undoing, extirpating Penalties, ceremonies. Tasks, and Oaths, meerly <hi>ad placitum,</hi> and for their own ends; contrary to the Fourth of thoſe prime Scripture Canons, whereby Chriſtian liberty in Indifferents is much impaired. Many worthy Men of great abilities, pains, and ſucceſſe of Miniſtry in their <hi>Charges,</hi> but of tender and ſtrict conſciences, have been thruſt out; Schiſms and Diſſentions in the bowels of the <hi>Church,</hi> for the ſpace now of more then fourſcore years nouriſhed, to the prejudice of our Eccleſiaſtical Peace; which we apprehend can never be fully attained, till Liberty of conſcience in Indifferencies, and points of ſmall conſequence, but great controverſie be granted. If Severity of cenſures, and force could have brought forth Unity, it had in this time been effected. This Remedy hath been long applied, and yet ſad Experience now tells us, that the Diſeaſe hath grown worſe and worſe.</p>
+            <p n="6">6. The carriage and conſtitution of our <hi>Convocations</hi> or (if they may be ſo called) our National Synods, is ſuch, that it is impoſſible to proceed to a Reformation in any of theſe Eccleſiaſtical diſtortions, by that way: What are they for the main, but Meetings of the one Party, conſiſting of Biſhops, Deans, Arch-Deacons, and other Dependers on Epiſcopacy, and preingaged Perſons? So that there is as little hope for us of Reformation in points of Government, from them, as was for the Proteſtants ſide, of a fair deciſion of their controverſies in the <hi>Councel</hi> of <hi>Trent,</hi> where Parties are Judges, the Sentence is paſſed, before the cauſe is heard.</p>
+            <p>We have done. Would to God we could make the Churches maladies, and our Grievances fewer: So far are we from making them odious, by raiſing them to a multitude.
+<pb n="11" facs="tcp:119384:7"/>
+Theſe Six we conceive to be the Capital and Seminary evills: Others of inferiour allay we omit, becauſe they moſtly flow from theſe, and the Principall being removed, the Acceſſaries will alſo fall.</p>
+            <p>Oh that there were a way to cure Ulcers, and not firſt to unrip them, and lay them open? We proteſt before the Searcher of all hearts, that nothing but our Zeal to the Truth, and our Mothers wellfare, could have moved us out of a Reſolution of ſilence, and brought us to ſtand up thus as Plaintiffes.</p>
+            <p>Far be it from any charitably minded Chriſtian, whoſe eye ſhall be caſt on theſe papers, to paſſe on us any hard cenſure of Hereſie, Schiſme, or Factious inclination.</p>
+            <p>We call not all Epiſcopacie Anti-chriſtian, nor condemn their Superiority, as ſimply unlawfull, as did that old <hi>Aërius.</hi> Though we muſt needs ſay, what every Godly Antiquary cannot but ſee, that it was a fair occaſion for that Myſtery of iniquity to work on; a fitly raiſed ground on which to builde that fabrick of Confuſion, the Papacy. That man of ſin, ſoon learned to exalt himſelf above Biſhops; from their elevation above their once fellow Presbyters. How juſtly were they made Vaſſals to the Pope, who had firſt made the Presbyters of the Churches theirs?</p>
+            <p>Neither do we <hi>erigere Altare contra Altare,</hi> diſſolve the Churches Unity, and leave her Communion for theſe Corruptions. When we call for a Cure, we affirme that there is life, and hope of Recovery. It is an Argument that our charity remains; and therefore we cannot be charged as Novations, and Separatiſts.</p>
+            <p>A turbulent diſſemper'd Zeal, cannot be imputed to them whoſe ayme is Peace, whoſe dear eſteem of Unity is ſuch, that they could redeem it with their blood: And who all this time have born theſe burthens, now complained of, with a ſilent patience, and had ſtill continued under an humble ſubmiſſion, and yielding conformity, if that would have given content, as till theſe times it had done: But when things grew to that extremity, that we muſt not only
+<pb n="12" facs="tcp:119384:8"/>
+bear, but allow, and ſwear Vaſſallage, to that which we cannot but call Corruptions, and deflections in Government, from Apoſtolique Purity: It was high time to complain, and to cry out for a removall of Evills, which we muſt approve, or not be.</p>
+            <p>Politicall Defects and Diſtempers can have no Redreſſe, but from that Power, which is Supream: Unto that therefore, with all proſtrate Humility we preſent our earneſt Requeſt, that theſe Evils, being diſcovered, may be removed.</p>
+            <p>We are poor Men, of low condition, whoſe meaſure is not to rule, but to ſubmit. We preſcribe not Formes of Government: We diſclaim not Epiſcopacy, Government muſt be, or ruine will be in all Societies. <hi>If we muſt obey, as good a Biſhop with a Presbytery, as a Presbytery without a Biſhop.</hi> All we ſue for is, That <hi>Christ</hi> may Rule without impeachment, in his own Houſe. That thoſe Generall forealledged Conſtitutions, which he and his Apoſtles ſettled in the Churches of their firſt gathering, may be obſerved inviolable.</p>
+            <p>Humane Ordinances ſhould further, not make void, or hinder Divine. Let your Authority retain in Government, or eſtabliſh what it ſeemeth convenient, ſo it concord with, or at leaſt, do not enervate thoſe ſacred Rules. Whatever is againſt them, or ſo beſides them, that it any whit ſtands in their way, muſt be removed, or we ſhall never ſee true peace: that Peace which kiſſeth Righteouſneſſe, which is the firme Band of Spirituall unity.</p>
+            <p>Reſtleſſe pains, and inordinate Action, muſt needs be the conſequent of Luxations: when the members are out of their due places, ſome higher ſet, ſome lower, then they ſhould be: Innovation it muſt needs be termed, and defection, be the Authors never ſo many, Ancient, or Holy, where their Additionalls ſwerve from, and oppoſe the uſe, and intention of Original Conſtitutions.</p>
+            <p>A Redreſſement of this, is the ſubſtance of our Lowly Petition; we preſume not to define the manner how, but
+<pb n="13" facs="tcp:119384:8"/>
+we beſeech, that it may be, and fully; ſo that matter be not left for a third Convulſion; and ſolidly, that Corruptions ſpring not again, out of any remaining Principles. So ſhall the Souls of all thoſe who love the <hi>Lord JES<g ref="char:V">Ʋ</g>S</hi> in ſincerity, and prefer his Truth, beyond Self-Reſpects, both in preſent, and future Ages, renown your Names, as of thoſe who have done worthily: However we have diſcharged our Duty; and let the LORD finde means, and time, to root out whatever he hath not planted.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
